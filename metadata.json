@@ -1,0 +1,6 @@
+{
+  "name": "ResQHealth - CPR Guides & Health Tracker",
+  "description": "Interactive CPR training with metronome coach, emergency SOS alerts & dispatch helper, and daily cardiovascular vitals tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
